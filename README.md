@@ -11,5 +11,5 @@ Where are the dialogues?
 ========================
 
 Go to your *Age of Decadence* installation folder, find there a file
-named *scripts.aod*. It's a zip archive; the dialogue files are inside
-the *data/text/dialogues/english/* folder in that archive.
+named *scripts.aod*. It's a zip archive; the dialogue files are the XML
+files inside the *data/text/dialogues/english/* folder in that archive.
